@@ -1,0 +1,17 @@
+
+_ReSharper.*
+[Tt]est[Rr]esult*
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+sql/
+*.dbmdl
+*.ncrunchsolution
+*.Publish.xml
+*.dbproj.schemaview
+output/
+*.eml
+*.pdf
+*.sif
+TestFileSystem/
